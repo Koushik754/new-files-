@@ -1,2 +1,3 @@
 # new-files-
-show me details 
+show me details of new project
+hello worlg
